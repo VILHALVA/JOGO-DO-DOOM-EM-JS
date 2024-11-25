@@ -1,7 +1,7 @@
 # SHOOTER EM 2D
 🎮ESSE JOGO É UM TÍPICO EXEMPLO DE UM SHOOTER EM 2D, COM OBJETIVO DE PONTUAR O MÁXIMO POSSÍVEL ENQUANTO SOBREVIVE.
 
-<img src="FOTO.png" align="center" width="300"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Nele, você controla um personagem *Revenant* em um ambiente de combate onde deve atirar em inimigos, desviar de ataques e resgatar amigos. A pontuação aumenta ao derrotar inimigos e salvar aliados, mas diminui ao sofrer dano ou perder aliados. A energia do jogador é limitada, e o jogo termina quando ela chega a zero.
